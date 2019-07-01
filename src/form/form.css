@@ -1,0 +1,51 @@
+body{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background-color: teal;
+    width: 100%;
+    height:100%;
+}
+
+#Nav{
+ width: 100%;   
+
+}
+
+#Nav a{
+  margin-left: 7px;
+
+   padding: 100px;
+  
+   
+}
+#Footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    background-color: aquamarine
+   
+}
+#Footer #right{
+    margin-left: 5px;
+}
+#items{
+   margin-left: 10px;
+   margin: 20px;
+   border: 2px solid teal;
+   height: 50px;
+   padding: 2px
+   
+}
+#main #items{
+    display: inline;
+    background-color: antiquewhite;
+  
+}
+.topic{
+    background-color: aquamarine
+}
+#putting{
+    background-color: aqua
+}
